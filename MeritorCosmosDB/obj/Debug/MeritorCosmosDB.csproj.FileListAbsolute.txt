@@ -1,0 +1,70 @@
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\MeritorCosmosDB.exe.config
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\DocumentDB.Spatial.Sql.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\MeritorCosmosDB.exe
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\MeritorCosmosDB.pdb
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Newtonsoft.Json.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Buffers.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Memory.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Net.Http.WinHttpHandler.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Numerics.Vectors.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Newtonsoft.Json.xml
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Buffers.xml
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Memory.xml
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Numerics.Vectors.xml
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\obj\Debug\MeritorCosmosDB.csprojResolveAssemblyReference.cache
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\obj\Debug\MeritorCosmosDB.exe
+d:\users\somavarpuv\documents\visual studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\obj\Debug\MeritorCosmosDB.pdb
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.xml
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.WebKey.xml
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\Users\somavarpuv\Documents\Visual Studio 2015\Projects\MeritorCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\MeritorCosmosDB.exe.config
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\obj\Debug\MeritorCosmosDB.exe
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\obj\Debug\MeritorCosmosDB.pdb
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\DocumentDB.Spatial.Sql.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\MeritorCosmosDB.exe
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\MeritorCosmosDB.pdb
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Buffers.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Memory.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.KeyVault.WebKey.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Buffers.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Memory.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\AzureCosmosDB\MeritorCosmosDB\obj\Debug\MeritorCosmosDB.csprojResolveAssemblyReference.cache
